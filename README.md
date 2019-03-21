@@ -1,4 +1,3 @@
 # tongxiaofeng.com
-My Blog.
 
-Test.
+这里是佟晓峰的个人网站。
