@@ -5,10 +5,29 @@
     <link>https://tongxiaofeng.com/tags/</link>
     <description>Recent content in Tags on 佟晓峰的个人网站</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 21 Mar 2019 16:46:18 +0800</lastBuildDate>
     
 	<atom:link href="https://tongxiaofeng.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Programing</title>
+      <link>https://tongxiaofeng.com/tags/programing/</link>
+      <pubDate>Thu, 21 Mar 2019 16:46:18 +0800</pubDate>
+      
+      <guid>https://tongxiaofeng.com/tags/programing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>https://tongxiaofeng.com/tags/rust/</link>
+      <pubDate>Thu, 21 Mar 2019 16:46:18 +0800</pubDate>
+      
+      <guid>https://tongxiaofeng.com/tags/rust/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
