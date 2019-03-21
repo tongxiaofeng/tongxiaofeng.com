@@ -1,4 +1,5 @@
 baseURL = "https://tongxiaofeng.com/"
+publishDir = "docs"
 languageCode = "zh-cn"
 title = "佟晓峰的个人网站"
 theme = "ananke"
