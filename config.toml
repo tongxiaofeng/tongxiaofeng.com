@@ -1,5 +1,3 @@
-baseURL = "https://tongxiaofeng.com/"
-languageCode = "zh-cn"
-title = "佟晓峰的个人网站"
-theme = "ananke"
-publishDir = "docs"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
