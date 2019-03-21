@@ -1,66 +1,99 @@
 baseURL = "https://tongxiaofeng.com/"
 publishDir = "docs"
 title = "佟晓峰的个人网站"
-theme = "next"
 LanguageCode = "zh-CN"
+defaultContentLanguage = "zh"
 
-MetaDataFormat =  "yaml"
-CanonifyUrls =  true
-BuildDrafts =  false
-PaginatePath =  "p"
-Paginate = 8
-DisablePathToLower =  false
-HasCJKLanguage = true
-PreserveTaxonomyNames = false
-UglyUrls = false
-PygmentsStyle = "monokai"
-pygmentsCodefences = true
-pygmentsCodefencesGuessSyntax = true
-DefaultContentLanguage = "zh"
+# Pagination
+paginate = 3
+paginatePath = "page"
 
-[Params]
-  Introduce = "佟晓峰的网络世界"
-  Description = "学习 | 思考 | 进化 | 创造"
-  Keywords =  "佟晓峰 区块链 比特币 挖矿"
-  Subtitle = "努力进化成更高级的物种"
-  Imglogo = "/img/logo.png"
-  AuthorImg = "/img/author.jpg"
-  DateFormat = "2006-01-02"
-  YearFormat = "2006年"
-  MonthFormat = "01-02"
-  #BaiduStatsId = "0b07433b4ab8d587dae7d34e71973839"
-  #QQStatsId = "58416275"
-  Fancybox = true
+# Theme to use
+theme = "hugo-material-blog"
 
-[Author]
-  Name = "佟晓峰"
+# Copyright, appears in the footer
+copyright = "© 2019 Copyright 佟晓峰"
 
-[Params.Share]
-  #DuoShuo = "lanlingzi"
-  Baidu = true
+# Links format
+[permalinks]
+  post = "/:year/:month/:title/"
 
-[[Menu.Main]]
-  Name = "首页"
-  Pre = "home"
-  URL = "/"
-  Weight = 1
-[[Menu.Main]]
-  Name = "归档"
-  Pre = "archive"
-  URL = "/posts/"
-  Weight = 2
-[[Menu.Main]]
-  Name = "关于"
-  Pre = "user"
-  URL = "/aboutme"
-  Weight = 3
+# 中文
+[languages.zh]
+  languageName = "中文"
 
-[[Params.Socials]]
-  Name = "GitHub"
-  Icon = "github"
-  URL = "https://github.com/tongxiaofeng"
+  # Main menu
+  [[languages.zh.menu.main]]
+    url = "/"
+    name = "主页"
+    
+  # Footer menu 1
+  [[languages.zh.menu.footer1]]
+    url = "/categories"
+    name = "分类"
+    weight = 1
+  [[languages.zh.menu.footer1]]
+    url = "/tags"
+    name = "标签"
+    weight = 2
 
-[[Params.Socials]]
-  Name = "知乎"
-  Icon = "globe"
-  URL = "https://zhuanlan.zhihu.com/tongxiaofeng"  
+  # Footer menu 2
+  [[languages.zh.menu.footer2]]
+    url = "/"
+    name = "主页"
+    weight = 1
+  [[languages.zh.menu.footer2]]
+    url = "/about"
+    name = "关于"
+    weight = 2
+
+  # Include menus in footer
+  [[languages.zh.params.footer_menus]]
+    name = "服务"
+    menu = "footer2"
+  [[languages.zh.params.footer_menus]]
+    name = "链接"
+    menu = "footer1"
+
+# English
+[languages.en]
+  languageName = "English"
+
+  # Main menu
+  [[languages.en.menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+  # Footer menu 1
+  [[languages.en.menu.footer1]]
+    url = "#"
+    name = "Service 1"
+    weight = 1
+  [[languages.en.menu.footer1]]
+    url = "#"
+    name = "Service 2"
+    weight = 2
+
+  # Footer menu 2
+  [[languages.en.menu.footer2]]
+    url = "/"
+    name = "Home"
+    weight = 1
+  [[languages.en.menu.footer2]]
+    url = "/about"
+    name = "About"
+    weight = 2
+
+  # Include menus in footer
+  [[languages.en.params.footer_menus]]
+    name = "Services"
+    menu = "footer2"
+  [[languages.en.params.footer_menus]]
+    name = "Links"
+    menu = "footer1"
+
+# Other params
+[params]
+  # Display post summaries instead of content in list templates (default: true)
+  #truncate = false
