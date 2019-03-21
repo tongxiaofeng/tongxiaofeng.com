@@ -1,9 +1,66 @@
 baseURL = "https://tongxiaofeng.com/"
 publishDir = "docs"
-languageCode = "zh-cn"
 title = "佟晓峰的个人网站"
-theme = "hyde"
+theme = "next"
+LanguageCode = "zh-CN"
 
-[params]
-    themeColor = "theme-base-0b"
-    layoutReverse = true
+MetaDataFormat =  "yaml"
+CanonifyUrls =  true
+BuildDrafts =  false
+PaginatePath =  "p"
+Paginate = 8
+DisablePathToLower =  false
+HasCJKLanguage = true
+PreserveTaxonomyNames = false
+UglyUrls = false
+PygmentsStyle = "monokai"
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+DefaultContentLanguage = "zh"
+
+[Params]
+  Introduce = "佟晓峰的网络世界"
+  Description = "学习 | 思考 | 进化 | 创造"
+  Keywords =  "佟晓峰 区块链 比特币 挖矿"
+  Subtitle = "努力进化成更高级的物种"
+  Imglogo = "/img/logo.png"
+  AuthorImg = "/img/author.jpg"
+  DateFormat = "2006-01-02"
+  YearFormat = "2006年"
+  MonthFormat = "01-02"
+  #BaiduStatsId = "0b07433b4ab8d587dae7d34e71973839"
+  #QQStatsId = "58416275"
+  Fancybox = true
+
+[Author]
+  Name = "佟晓峰"
+
+[Params.Share]
+  #DuoShuo = "lanlingzi"
+  Baidu = true
+
+[[Menu.Main]]
+  Name = "首页"
+  Pre = "home"
+  URL = "/"
+  Weight = 1
+[[Menu.Main]]
+  Name = "归档"
+  Pre = "archive"
+  URL = "/posts/"
+  Weight = 2
+[[Menu.Main]]
+  Name = "关于"
+  Pre = "user"
+  URL = "/aboutme"
+  Weight = 3
+
+[[Params.Socials]]
+  Name = "GitHub"
+  Icon = "github"
+  URL = "https://github.com/tongxiaofeng"
+
+[[Params.Socials]]
+  Name = "知乎"
+  Icon = "globe"
+  URL = "https://zhuanlan.zhihu.com/tongxiaofeng"  
