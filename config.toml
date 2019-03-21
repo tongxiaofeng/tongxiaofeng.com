@@ -3,3 +3,7 @@ publishDir = "docs"
 languageCode = "zh-cn"
 title = "佟晓峰的个人网站"
 theme = "hyde"
+
+[params]
+    themeColor = "theme-base-0b"
+    layoutReverse = true
