@@ -1,6 +1,6 @@
 baseURL = "https://tongxiaofeng.com/"
 publishDir = "docs"
-title = "佟晓峰的个人网站"
+title = "佟晓峰"
 LanguageCode = "zh-CN"
 defaultContentLanguage = "zh"
 
