@@ -6,25 +6,27 @@
     <description>Recent content in Categories on 佟晓峰的个人网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
+    <copyright>© 2019 Copyright 佟晓峰</copyright>
+    <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tongxiaofeng.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>技术</title>
-      <link>https://tongxiaofeng.com/categories/%E6%8A%80%E6%9C%AF/</link>
-      <pubDate>Thu, 21 Mar 2019 16:46:18 +0800</pubDate>
+      <title>About</title>
+      <link>https://tongxiaofeng.com/categories/about/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://tongxiaofeng.com/categories/%E6%8A%80%E6%9C%AF/</guid>
+      <guid>https://tongxiaofeng.com/categories/about/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>杂谈</title>
-      <link>https://tongxiaofeng.com/categories/%E6%9D%82%E8%B0%88/</link>
-      <pubDate>Thu, 21 Mar 2019 16:46:18 +0800</pubDate>
+      <title>Pages</title>
+      <link>https://tongxiaofeng.com/categories/pages/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://tongxiaofeng.com/categories/%E6%9D%82%E8%B0%88/</guid>
+      <guid>https://tongxiaofeng.com/categories/pages/</guid>
       <description></description>
     </item>
     

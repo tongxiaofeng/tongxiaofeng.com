@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tongxiaofeng.com/about/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tongxiaofeng.com/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://tongxiaofeng.com/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tongxiaofeng.com/categories/about/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tongxiaofeng.com/tags/blogging/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tongxiaofeng.com/categories/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tongxiaofeng.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://tongxiaofeng.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tongxiaofeng.com/tags/development/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tongxiaofeng.com/en/tags/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://tongxiaofeng.com/tags/development/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tongxiaofeng.com/tags/fast/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tongxiaofeng.com/tags/go/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tongxiaofeng.com/en/tags/go/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://tongxiaofeng.com/tags/go/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tongxiaofeng.com/categories/pages/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tongxiaofeng.com/tags/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tongxiaofeng.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://tongxiaofeng.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tongxiaofeng.com/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tongxiaofeng.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://tongxiaofeng.com/"
+                />
+  </url>
+  
+</urlset>
