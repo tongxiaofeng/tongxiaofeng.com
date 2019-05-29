@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 佟晓峰</title>
+    <title>Tags on 佟晓峰的博客</title>
     <link>https://tongxiaofeng.com/tags/</link>
-    <description>Recent content in Tags on 佟晓峰</description>
+    <description>Recent content in Tags on 佟晓峰的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2019 Copyright 佟晓峰</copyright>
@@ -13,38 +13,11 @@
     
     
     <item>
-      <title>Blogging</title>
-      <link>https://tongxiaofeng.com/tags/blogging/</link>
+      <title>About</title>
+      <link>https://tongxiaofeng.com/tags/about/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://tongxiaofeng.com/tags/blogging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>https://tongxiaofeng.com/tags/development/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tongxiaofeng.com/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fast</title>
-      <link>https://tongxiaofeng.com/tags/fast/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tongxiaofeng.com/tags/fast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://tongxiaofeng.com/tags/go/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tongxiaofeng.com/tags/go/</guid>
+      <guid>https://tongxiaofeng.com/tags/about/</guid>
       <description></description>
     </item>
     

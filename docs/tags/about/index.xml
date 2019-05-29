@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on 佟晓峰的博客</title>
-    <link>https://tongxiaofeng.com/categories/about/</link>
+    <link>https://tongxiaofeng.com/tags/about/</link>
     <description>Recent content in About on 佟晓峰的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2019 Copyright 佟晓峰</copyright>
     <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://tongxiaofeng.com/categories/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tongxiaofeng.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
