@@ -48,12 +48,12 @@ copyright = "© 2019 Copyright 佟晓峰"
     weight = 2
 
   # Include menus in footer
-  [[languages.zh.params.footer_menus]]
-    name = "服务"
-    menu = "footer2"
-  [[languages.zh.params.footer_menus]]
-    name = "链接"
-    menu = "footer1"
+  #[[languages.zh.params.footer_menus]]
+  #  name = "服务"
+  #  menu = "footer2"
+  #[[languages.zh.params.footer_menus]]
+  #  name = "链接"
+  #  menu = "footer1"
 
 # English
 [languages.en]
@@ -66,34 +66,34 @@ copyright = "© 2019 Copyright 佟晓峰"
     weight = 1
 
   # Footer menu 1
-  [[languages.en.menu.footer1]]
-    url = "#"
-    name = "Link 1"
-    weight = 1
-  [[languages.en.menu.footer1]]
-    url = "#"
-    name = "Link 2"
-    weight = 2
+  #[[languages.en.menu.footer1]]
+  #  url = "#"
+  #  name = "Link 1"
+  #  weight = 1
+  #[[languages.en.menu.footer1]]
+  #  url = "#"
+  #  name = "Link 2"
+  #  weight = 2
 
   # Footer menu 2
-  [[languages.en.menu.footer2]]
-    url = "/"
-    name = "Home"
-    weight = 1
-  [[languages.en.menu.footer2]]
-    url = "/about"
-    name = "About"
-    weight = 2
+  #[[languages.en.menu.footer2]]
+  #  url = "/"
+  #  name = "Home"
+  #  weight = 1
+  #[[languages.en.menu.footer2]]
+  #  url = "/about"
+  #  name = "About"
+  #  weight = 2
 
   # Include menus in footer
-  [[languages.en.params.footer_menus]]
-    name = "Services"
-    menu = "footer2"
-  [[languages.en.params.footer_menus]]
-    name = "Links"
-    menu = "footer1"
+  #[[languages.en.params.footer_menus]]
+  #  name = "Services"
+  #  menu = "footer2"
+  #[[languages.en.params.footer_menus]]
+  #  name = "Links"
+  #  menu = "footer1"
 
 # Other params
 [params]
   # Display post summaries instead of content in list templates (default: true)
-  #truncate = false
+  truncate = true
