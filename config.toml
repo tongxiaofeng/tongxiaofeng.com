@@ -28,24 +28,24 @@ copyright = "© 2019 Copyright 佟晓峰"
     name = "主页"
     
   # Footer menu 1
-  [[languages.zh.menu.footer1]]
-    url = "/categories"
-    name = "分类"
-    weight = 1
-  [[languages.zh.menu.footer1]]
-    url = "/tags"
-    name = "标签"
-    weight = 2
+  #[[languages.zh.menu.footer1]]
+  #  url = "/categories"
+  #  name = "分类"
+  #  weight = 1
+  #[[languages.zh.menu.footer1]]
+  #  url = "/tags"
+  #  name = "标签"
+  #  weight = 2
 
   # Footer menu 2
-  [[languages.zh.menu.footer2]]
-    url = "/"
-    name = "主页"
-    weight = 1
-  [[languages.zh.menu.footer2]]
-    url = "/about"
-    name = "关于"
-    weight = 2
+  #[[languages.zh.menu.footer2]]
+  #  url = "/"
+  #  name = "主页"
+  #  weight = 1
+  #[[languages.zh.menu.footer2]]
+  #  url = "/about"
+  #  name = "关于"
+  #  weight = 2
 
   # Include menus in footer
   #[[languages.zh.params.footer_menus]]
@@ -56,14 +56,14 @@ copyright = "© 2019 Copyright 佟晓峰"
   #  menu = "footer1"
 
 # English
-[languages.en]
-  languageName = "English"
+#[languages.en]
+#  languageName = "English"
 
   # Main menu
-  [[languages.en.menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
+ # [[languages.en.menu.main]]
+  #  url = "/"
+  #  name = "Home"
+  #  weight = 1
 
   # Footer menu 1
   #[[languages.en.menu.footer1]]
