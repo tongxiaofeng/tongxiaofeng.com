@@ -68,11 +68,11 @@ copyright = "© 2019 Copyright 佟晓峰"
   # Footer menu 1
   [[languages.en.menu.footer1]]
     url = "#"
-    name = "Service 1"
+    name = "Link 1"
     weight = 1
   [[languages.en.menu.footer1]]
     url = "#"
-    name = "Service 2"
+    name = "Link 2"
     weight = 2
 
   # Footer menu 2

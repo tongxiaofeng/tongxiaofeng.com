@@ -49,16 +49,6 @@
     <loc>https://tongxiaofeng.com/tags/development/</loc>
     <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tongxiaofeng.com/en/tags/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tongxiaofeng.com/tags/development/"
-                />
   </url>
   
   <url>
@@ -71,16 +61,6 @@
     <loc>https://tongxiaofeng.com/tags/go/</loc>
     <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tongxiaofeng.com/en/tags/go/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tongxiaofeng.com/tags/go/"
-                />
   </url>
   
   <url>
