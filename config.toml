@@ -1,6 +1,6 @@
 baseURL = "https://tongxiaofeng.com/"
 publishDir = "docs"
-title = "佟晓峰"
+title = "佟晓峰的博客"
 LanguageCode = "zh-CN"
 defaultContentLanguage = "zh"
 
@@ -25,7 +25,8 @@ copyright = "© 2019 Copyright 佟晓峰"
   # Main menu
   [[languages.zh.menu.main]]
     url = "/"
-    name = "主页"
+    name = "首页"
+    weight = 1
     
   # Footer menu 1
   #[[languages.zh.menu.footer1]]

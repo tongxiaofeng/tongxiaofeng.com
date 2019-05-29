@@ -3,29 +3,16 @@ title: "关于"
 date: "2019-03-21"
 menu: "main"
 author: "佟晓峰"
-cover_image: "images/image1.jpeg"
+#cover_image: "images/image1.jpeg"
 categories:
 - Pages
 - About
 tags:
-- Development
-- Go
-- fast
-- Blogging
+- About
 
 ---
 
-中文自我介绍
+我是佟晓峰，这里是我的个人网站，我将在这里分享我对世界的一些看法。
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
-
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+您可以通过tongxiaofeng@gmail.com联系我。
 
