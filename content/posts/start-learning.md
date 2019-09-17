@@ -1,7 +1,6 @@
 ---
 title: "开始学习"
 date: 2019-09-17T17:16:00+08:00
-draft: true
 menu: "main"
 author: "佟晓峰"
 #cover_image: "images/image1.jpeg"
