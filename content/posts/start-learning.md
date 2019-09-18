@@ -1,7 +1,7 @@
 ---
 title: "开始学习"
 date: 2019-09-17T17:16:00+08:00
-menu: "main"
+draft: false
 author: "佟晓峰"
 #cover_image: "images/image1.jpeg"
 categories:
@@ -26,4 +26,4 @@ tags:
 
 明年5月份三个币种将陆续减半，将是非常精彩的一轮博弈。会发生什么？让我们拭目以待。
 
-
+在这段时间里，静下心来，安心学习。Prepare for something BIG!
