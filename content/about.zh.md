@@ -10,7 +10,6 @@ categories:
 tags:
 - About
 
-<meta name="google-site-verification" content="eJDweNuniOS6PfTIpxUYVVAh95-ujfu-59AIQuFnFQU" />
 summary: 我是佟晓峰，这里是我的个人网站，我将在这里分享我对世界的一些看法。  
 ---
 
