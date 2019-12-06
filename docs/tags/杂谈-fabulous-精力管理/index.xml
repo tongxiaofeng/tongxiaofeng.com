@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 佟晓峰的博客</title>
-    <link>https://tongxiaofeng.com/posts/</link>
-    <description>Recent content in Posts on 佟晓峰的博客</description>
+    <title>杂谈 Fabulous 精力管理 on 佟晓峰的博客</title>
+    <link>https://tongxiaofeng.com/tags/%E6%9D%82%E8%B0%88-fabulous-%E7%B2%BE%E5%8A%9B%E7%AE%A1%E7%90%86/</link>
+    <description>Recent content in 杂谈 Fabulous 精力管理 on 佟晓峰的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2019 Copyright 佟晓峰</copyright>
     <lastBuildDate>Tue, 19 Nov 2019 12:20:43 +0800</lastBuildDate>
     
-	<atom:link href="https://tongxiaofeng.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tongxiaofeng.com/tags/%E6%9D%82%E8%B0%88-fabulous-%E7%B2%BE%E5%8A%9B%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,17 +21,6 @@
       <description>&lt;p&gt;今天恰巧是订阅Fabulius会员一周年。&lt;/p&gt;
 
 &lt;p&gt;使用这个App一年时间了，我戒了烟，戒了酒，退掉了大部分的微信群，开始跑步突破了十公里大关，每天开始坚持读书和练习英语听力口语。而之前的很多年，我的生活当中有太多的不良习惯，抽烟喝酒熬夜不运动。还有很多的时间黑洞，刷朋友圈，微信群聊天，看视频，吃鸡。我手机每天使用时间保持在大概7个小时。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>开始学习</title>
-      <link>https://tongxiaofeng.com/posts/start-learning/</link>
-      <pubDate>Tue, 17 Sep 2019 17:16:00 +0800</pubDate>
-      
-      <guid>https://tongxiaofeng.com/posts/start-learning/</guid>
-      <description>&lt;p&gt;从2017年开始全职进入币圈，算是崭新的一段经历。到现在已经整整2年多了。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

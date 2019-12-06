@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tongxiaofeng.com/posts/fabulous-app/</loc>
+    <lastmod>2019-11-19T12:20:43+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tongxiaofeng.com/posts/start-learning/</loc>
     <lastmod>2019-09-17T17:16:00+08:00</lastmod>
   </url>
@@ -32,13 +37,13 @@
   
   <url>
     <loc>https://tongxiaofeng.com/categories/pages/</loc>
-    <lastmod>2019-09-17T17:16:00+08:00</lastmod>
+    <lastmod>2019-11-19T12:20:43+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tongxiaofeng.com/posts/</loc>
-    <lastmod>2019-09-17T17:16:00+08:00</lastmod>
+    <lastmod>2019-11-19T12:20:43+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,8 +60,14 @@
   </url>
   
   <url>
+    <loc>https://tongxiaofeng.com/tags/%E6%9D%82%E8%B0%88-fabulous-%E7%B2%BE%E5%8A%9B%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2019-11-19T12:20:43+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tongxiaofeng.com/</loc>
-    <lastmod>2019-09-17T17:16:00+08:00</lastmod>
+    <lastmod>2019-11-19T12:20:43+08:00</lastmod>
   </url>
   
 </urlset>
