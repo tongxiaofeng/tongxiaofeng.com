@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2019 Copyright 佟晓峰</copyright>
-    <lastBuildDate>Tue, 19 Nov 2019 12:20:43 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2019 12:20:43 +0800</lastBuildDate>
     
 	<atom:link href="https://tongxiaofeng.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何改变自己的生活</title>
+      <link>https://tongxiaofeng.com/posts/change-your-life/</link>
+      <pubDate>Mon, 25 Nov 2019 12:20:43 +0800</pubDate>
+      
+      <guid>https://tongxiaofeng.com/posts/change-your-life/</guid>
+      <description>&lt;p&gt;前段时间一个高中的发小Z同学到北京来，他现在是一个编剧,到一个剧组来谈本子。这两年他经常来，偶尔我们也会聚一聚。一起聚会的，还有我高中的时候同桌W同学，他现在也安家在北京，是我的好哥们，我曾经给他做过伴郎。&lt;/p&gt;
+
+&lt;p&gt;做编剧的Z同学，从上高中的时候，就非常有文艺气质，喜欢写东西，喜欢唱歌。那时候我们经常在深夜逛马路，漫无目的逛，一宿一宿的逛，边逛边聊。我们喜欢做的一件事情是，看下一辆车牌，若是单数就往左拐，如果是双数就往右拐，然后一夜下来就不知道走到了城市的哪一端。那是我们的青春，非常深刻非常美好的记忆。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>为Fabulous App写的一篇review</title>
