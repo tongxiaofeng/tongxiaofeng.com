@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steem Github on 佟晓峰的博客</title>
+    <link>https://tongxiaofeng.com/tags/steem-github/</link>
+    <description>Recent content in Steem Github on 佟晓峰的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>© 2019 Copyright 佟晓峰</copyright>
+    <lastBuildDate>Fri, 25 Jan 2019 03:38:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://tongxiaofeng.com/tags/steem-github/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>STEEM能否与Github进行结合？</title>
+      <link>https://tongxiaofeng.com/p205/</link>
+      <pubDate>Fri, 25 Jan 2019 03:38:45 +0000</pubDate>
+      
+      <guid>https://tongxiaofeng.com/p205/</guid>
+      <description>&lt;p&gt;这是2016年的一篇旧文章，那时候对Steem着了迷，这算是除了比特币之外我追逐过的唯一一个山寨币吧。想着Steem能够革了Facebook、Twitter的命，现在看来这个革命者依然是比特币&amp;#8211;BSV。&lt;/p&gt;
+
+&lt;p&gt;这篇文章中的想法现在看来依然是有意义的，在BSV的大区块实施以后，等BSV成为真正的微支付手段之后，实现起来会是很简单的。
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@ LanguageCode = "zh-CN"
 defaultContentLanguage = "zh"
 
 # Pagination
-paginate = 3
+paginate = 10
 paginatePath = "page"
 
 # Theme to use

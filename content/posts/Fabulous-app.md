@@ -4,8 +4,6 @@ date: 2019-11-19T12:20:43+08:00
 draft: false
 author: "佟晓峰"
 #cover_image: "images/image1.jpeg"
-categories:
-- Pages
 tags:
 - 杂谈 Fabulous 精力管理
 ---
