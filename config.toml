@@ -3,7 +3,7 @@ publishDir = "docs"
 title = "佟晓峰的博客"
 LanguageCode = "zh-CN"
 defaultContentLanguage = "zh"
-
+disqusShortname = "tong-xiao-feng-de-bo-ke"
 # Pagination
 paginate = 10
 paginatePath = "page"
