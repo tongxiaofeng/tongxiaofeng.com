@@ -9,8 +9,8 @@ paginate = 10
 paginatePath = "page"
 
 # Theme to use
-#theme = "hugo-material-blog"
-theme= "fluid"
+theme = "hugo-material-blog"
+#theme= "fluid"
 
 # Copyright, appears in the footer
 copyright = "© 2019 Copyright 佟晓峰"
